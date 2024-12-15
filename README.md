@@ -1,5 +1,5 @@
 # 거인 키보드 - Unihertz Titan 용 한글 키보드 패치
-`FUNANDUSEFUL.COM`님이 개발하신 [스트로베리 키보드](https://www.clien.net/service/board/cm_bb/12428757)에 적용할 수 있는 패치 파일입니다. 스트로베리 키보드 1.3.2 버전을 기반으로 합니다.
+[ONEYEAR](https://play.google.com/store/apps/dev?id=7730787383717222740)님이 개발하신 [스트로베리 키보드](https://www.clien.net/service/board/cm_bb/12428757)에 적용할 수 있는 패치 파일입니다. 스트로베리 키보드 1.3.2 버전을 기반으로 합니다.
 
 > [!WARNING]  
 > 악의적으로 작성된 코드 및 패치는 없으나 패치를 사용함으로 인해 발생할 수 있는 불이익에 대한 모든 책임은 사용자에 있습니다. 개발자는 이에 대해 책임지지 않습니다.
