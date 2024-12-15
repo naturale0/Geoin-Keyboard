@@ -5,7 +5,7 @@
 > 악의적으로 작성된 코드 및 패치는 없으나 패치를 사용함으로 인해 발생할 수 있는 불이익에 대한 모든 책임은 사용자에 있습니다. 개발자는 이에 대해 책임지지 않습니다.
 
 # APK 패치 및 설치 방법
-1. 스트로베리 키보드 1.3.2 APK 파일을 다운로드 받습니다. ([예시 링크](https://apkpure.com/kr/%EC%8A%A4%ED%8A%B8%EB%A1%9C%EB%B2%A0%EB%A6%AC-%ED%82%A4%EB%B3%B4%EB%93%9C-for-%ED%82%A4%EC%9B%90/com.funanduseful.strawberry/download))
+1. 스트로베리 키보드 1.3.2 APK 파일을 다운로드 받습니다. ([예시 링크](https://apkpure.com/kr/%EC%8A%A4%ED%8A%B8%EB%A1%9C%EB%B2%A0%EB%A6%AC-%ED%82%A4%EB%B3%B4%EB%93%9C-for-%ED%82%A4%EC%9B%90/com.funanduseful.strawberry/download). 현재 구글 플레이 스토어에서는 다운로드 할 수 없습니다.)
 2. 패치 파일을 다운로드 받습니다. ([링크](https://github.com/naturale0/Geoin-Keyboard/releases/download/v1.0.0/patch.1.0.0))
 3. `bsdiff`를 사용하여 APK 파일을 패치합니다. (bsdiff 다운로드: [Windows](https://www.romhacking.net/utilities/929/), [MacOS](https://formulae.brew.sh/formula/bsdiff))
    ```
