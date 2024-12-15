@@ -6,12 +6,13 @@
 
 # APK 패치 및 설치 방법
 1. 스트로베리 키보드 1.3.2 APK 파일을 다운로드 받습니다. ([예시 다운로드 링크](https://apkpure.com/kr/%EC%8A%A4%ED%8A%B8%EB%A1%9C%EB%B2%A0%EB%A6%AC-%ED%82%A4%EB%B3%B4%EB%93%9C-for-%ED%82%A4%EC%9B%90/com.funanduseful.strawberry/download))
-2. `bsdiff`를 사용하여 APK 파일을 패치합니다. (bsdiff 다운로드: [Windows](https://www.romhacking.net/utilities/929/), [MacOS](https://formulae.brew.sh/formula/bsdiff))
+2. 패치 파일을 다운로드 받습니다. ([링크](https://github.com/naturale0/Geoin-Keyboard/releases/download/v1.0.0/patch.1.0.0))
+3. `bsdiff`를 사용하여 APK 파일을 패치합니다. (bsdiff 다운로드: [Windows](https://www.romhacking.net/utilities/929/), [MacOS](https://formulae.brew.sh/formula/bsdiff))
    ```
    bspatch "패치 전 앱.apk" "Geoin-kb-patched.apk" patch.1.0.0
    ```
    -> `패치 전 앱.apk`에 패치 1.0.0 버전을 적용하여 `Geoin-kb-patched.apk`를 만듭니다.
-3. 패치된 `Geoin-kb-patched.apk`를 스마트폰에 설치합니다.
+4. 패치된 `Geoin-kb-patched.apk`를 스마트폰에 설치합니다.
 
 # 기능
 - `ALT+SHIFT` 를 눌렀을 때 한국어에서 자주 사용하는 기호를 바로 입력할 수 있습니다. 예시: `ALT+SHIFT+W`를 누르면 물결표(`~`)를 작성합니다.
