@@ -9,7 +9,7 @@
 
 ## 1. `Xdelta3` 사용 (컴퓨터 불필요)
 1. 스트로베리 키보드 1.3.2 APK 파일을 다운로드 받습니다. ([예시 링크](https://apkpure.com/kr/%EC%8A%A4%ED%8A%B8%EB%A1%9C%EB%B2%A0%EB%A6%AC-%ED%82%A4%EB%B3%B4%EB%93%9C-for-%ED%82%A4%EC%9B%90/com.funanduseful.strawberry/download). 현재 구글 플레이 스토어에서는 다운로드 할 수 없습니다.)
-2. 패치 파일을 다운로드 받습니다. ([Xdelta3용 패치 링크](https://github.com/naturale0/Geoin-Keyboard/releases/download/v1.0.0/patch.1.0.0))
+2. 패치 파일을 다운로드 받습니다. ([Xdelta3용 패치 링크](https://github.com/naturale0/Geoin-Keyboard/releases/download/v1.0.0/patch.1.0.0.xdelta3))
 3. 폰에 [Unipatcher 앱](https://play.google.com/store/apps/details?id=org.emunix.unipatcher&hl=en_US)을 설치합니다.
 4. 1, 2에서 다운받은 APK와 패치파일을 폰으로 옮깁니다.
 5. Unipatcher를 실행 후 아래를 차례대로 따라합니다.
