@@ -15,7 +15,7 @@
 5. Unipatcher를 실행 후 아래를 차례대로 따라합니다.
    1. "Patch file"을 터치 후 2에서 다운받은 패치 파일을 선택합니다.
    2. "ROM file"을 터치 후 1에서 다운받은 원본 APK를 선택합니다.
-   3. "Outpput file"을 터치 후 패치된 APK의 이름 및 저장할 폴더를 지정합니다.
+   3. "Output file"을 터치 후 패치된 APK의 이름 및 저장할 폴더를 지정합니다.
 6. 우측 하단 저장 아이콘을 클릭하면 패치된 APK가 저장됩니다.
 7. 패치된 APK를 실행하여 설치합니다.
    1. Google Play Protect 경고가 뜨면 "More detail" (자세히)을 누른 뒤 "Install without scanning" (스캔하지 않고 설치)를 눌러줍니다.
